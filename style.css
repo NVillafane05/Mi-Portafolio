@@ -109,8 +109,8 @@ body{
     margin: 0;
     height:100%;
     font-size: 1em;
-  font-family: 'Montserrat', sans-serif;
-  color: #2e2e31;
+    font-family: 'Montserrat', sans-serif;
+    color: #2e2e31;
 }
 
 @media(max-width:375px){
@@ -156,30 +156,30 @@ body{
 }
     
     }
-   .aside{
-       width:100%;
+    .aside{
+        width:100%;
 
-   }
-   .botones-proyectos{
-       display:flex;
-   }
-   .contenedor-proyectos{
-       margin-right: 0;
-       margin-left: 0;
+    }
+    .botones-proyectos{
+        display:flex;
+    }
+    .contenedor-proyectos{
+    margin-right: 0;
+    margin-left: 0;
    }
    .cuarta-seccion{
-       padding: 20px;
+    padding: 20px;
    }
    .texto-footer{
-       display: flex;
+    display: flex;
    }
-     
+
     
         
     
 
 
-   
+
 
 
 
@@ -201,21 +201,21 @@ body{
         font-size: 30px;
         width: 100%;
 }
-   .aside{
-       width:100%;
+    .aside{
+        width:100%;
 
    }
-   .botones-proyectos{
-       display:flex;
+    .botones-proyectos{
+        display:flex;
    }
    .contenedor-proyectos{
-       margin-right: 0;
-       margin-left: 0;
+        margin-right: 0;
+        margin-left: 0;
    }
    .cuarta-seccion{
-       padding: 20px;
+        padding: 20px;
    }
    .texto-footer{
        display: flex;
    }
-     }
+    }

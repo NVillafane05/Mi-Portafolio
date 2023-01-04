@@ -123,8 +123,8 @@ input{
     transition: 0.2s;
 }
 input:hover{
-   border: 2px solid rgb(173, 27, 166);
-   box-shadow: plum;
+  border: 2px solid rgb(173, 27, 166);
+  box-shadow: plum;
 }
 .button{
     background-color: rgb(247,10,148);
